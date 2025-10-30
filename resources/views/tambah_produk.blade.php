@@ -53,6 +53,9 @@
           <label class="form-label">Jenis Produk</label>
           <select class="form-select">
             <option selected>Pilih Produk</option>
+            @for ($i = 0; $i < count($jenisProduk); $i++)
+              <option value="{{ $jenisProduk[$i] }}">{{ $jenisProduk[$i] }}</option>
+            @endfor
           </select>
         </div>
       </div>
