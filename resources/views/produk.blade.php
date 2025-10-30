@@ -36,7 +36,7 @@
 </div>
 <div class="d-flex justify-content-between align-items-center mb-3">
   <h1 class="fw-bold">Halaman Produk</h1>
-  <a href="/produk/tambah" class="btn btn-primary">Tambah Produk</a>
+  <a href="/produk/tambah_produk" class="btn btn-primary">Tambah Produk</a>
 </div>
 <div class="container mt-5">
 <table class="table table-bordered table-striped" style="background-color: #1085e5;">
